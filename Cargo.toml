@@ -1,0 +1,9 @@
+[package]
+name = "picnic"
+version = "0.1.0"
+authors = ["Andre Bogus <bogusandre@gmail.com>"]
+description = "Your Picnic is on Fire!"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/llogiq/picnic"
+
